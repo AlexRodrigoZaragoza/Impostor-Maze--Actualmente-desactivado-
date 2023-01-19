@@ -1,0 +1,51 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Wall
+  - Trap
+  - TrapController
+  - PlayerMessage
+  - Start
+  - UI_Write
+  - Rejilla
+  - MessageParent
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - TrapController
+  - Water
+  - UI
+  - Message
+  - Wall
+  - Floor
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
